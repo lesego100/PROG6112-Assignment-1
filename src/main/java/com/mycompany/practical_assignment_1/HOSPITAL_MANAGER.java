@@ -117,7 +117,6 @@ public class HOSPITAL_MANAGER {
             
             PATIENT patient = patients.get(i);
             
-            System.out.println("\n");
             patient.displayDetails();
         }
     }
